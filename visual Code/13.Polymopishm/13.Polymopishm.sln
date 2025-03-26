@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Polymopishm", "13.Polymopishm.csproj", "{9C1D9A80-63CA-4971-8FDF-12E3C416CA7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C1D9A80-63CA-4971-8FDF-12E3C416CA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1D9A80-63CA-4971-8FDF-12E3C416CA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1D9A80-63CA-4971-8FDF-12E3C416CA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1D9A80-63CA-4971-8FDF-12E3C416CA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F63FA0E6-DEC8-453E-939B-C7876BAE7F4E}
+	EndGlobalSection
+EndGlobal
